@@ -38,21 +38,13 @@ pip install pandas numpy matplotlib
 ```
 🛠️ Methodology
 
-    Data Preparation: Cleaned the dataset by handling missing values and removing duplicates.
-    Exploratory Data Analysis (EDA): Explored the data distribution and visualized key patterns using various      plotting techniques.
-    Correlation Analysis: Examined relationships between age and income to identify trends.
-    Modeling (if applicable): Applied regression techniques to predict income based on demographic factors.
+Data Preparation: Cleaned the dataset by handling missing values and removing duplicates.
 
-📈 Results
+Exploratory Data Analysis (EDA): Explored the data distribution and visualized key patterns using various      plotting techniques.
 
-    Correlation Findings: Identified a moderate correlation between age and income, indicating that income         generally increases with age up to a certain point.
-    
-    Insights:
-        Younger individuals (ages 25-35) show varied income levels.
-        Higher income levels tend to plateau or decrease slightly beyond middle age.
-    Model Performance (if applicable):
-        Accuracy: X% (if a predictive model was used)
-        Evaluation Metrics: Provide metrics like MSE, RMSE, R², etc.
+Correlation Analysis: Examined relationships between age and income to identify trends.
+
+Modeling (if applicable): Applied regression techniques to predict income based on demographic factors.
 
 🚀 Getting Started
 
@@ -66,46 +58,41 @@ To run the analysis locally, follow these steps:
     
     Navigate to the project directory:
     
-    bash
-    
     cd kmeans
     
     Open '.ipynb' in Jupyter NoteBook or Equivalent
 
 📚 Conclusion
 
-    This analysis offers a preliminary exploration into income distribution based on age. Future work could        extend this analysis with a larger, more diverse dataset and additional demographic features to draw more      comprehensive conclusions.
+This analysis offers a preliminary exploration into income distribution based on age. Future work could        extend this analysis with a larger, more diverse dataset and additional demographic features to draw more      comprehensive conclusions.
 
-📝 License
-
-    This project is licensed under the MIT License. See the LICENSE file for more details.
 🤝 Acknowledgments
 
-    Pandas Documentation
-    Matplotlib Documentation
-    Special thanks to the open-source community for their valuable tools and resources.
+Pandas Documentation
+Matplotlib Documentation
+Special thanks to the open-source community for their valuable tools and resources.
 
 Feel free to reach out if you have any questions or suggestions! 😊
 
 ### Enhancements Made:
 
-    1. **Professional Tone**: Refined the language to sound more professional.
-    2. **Icons and Emojis**: Added emojis to make the document visually appealing and easier to navigate.
-    3. **Structured Sections**: Organized content into clear, concise sections for better readability.
-    4. **Emphasized Key Points**: Used bold text to highlight key terms.
-    5. **Instructions and Clarity**: Clarified instructions under "Getting Started" and "Requirements."
-    
-    This format will make your project stand out by providing a clear, engaging overview while maintaining a       professional appearance!Cleaned the dataset by handling missing values and removing duplicates.
-    Exploratory Data Analysis (EDA): Explored the data distribution and visualized key patterns using              various plotting techniques.
-    Correlation Analysis: Examined relationships between age and income to identify trends.
-    Modeling (if applicable): Applied regression techniques to predict income based on demographic factors.
+1. **Professional Tone**: Refined the language to sound more professional.
+2. **Icons and Emojis**: Added emojis to make the document visually appealing and easier to navigate.
+3. **Structured Sections**: Organized content into clear, concise sections for better readability.
+4. **Emphasized Key Points**: Used bold text to highlight key terms.
+5. **Instructions and Clarity**: Clarified instructions under "Getting Started" and "Requirements."
+
+This format will make your project stand out by providing a clear, engaging overview while maintaining a       professional appearance!Cleaned the dataset by handling missing values and removing duplicates.
+Exploratory Data Analysis (EDA): Explored the data distribution and visualized key patterns using              various plotting techniques.
+Correlation Analysis: Examined relationships between age and income to identify trends.
+Modeling (if applicable): Applied regression techniques to predict income based on demographic factors.
 
 📈 Results
 
-    Correlation Findings: Identified a moderate correlation between age and income, indicating that income         generally increases with age up to a certain point.
-    Insights:
-        Younger individuals (ages 25-35) show varied income levels.
-        Higher income levels tend to plateau or decrease slightly beyond middle age.
-    Model Performance (if applicable):
-        Accuracy: X% (if a predictive model was used)
-        Evaluation Metrics: Provide metrics like MSE, RMSE, R², etc.
+Correlation Findings: Identified a moderate correlation between age and income, indicating that income         generally increases with age up to a certain point.
+Insights:
+    Younger individuals (ages 25-35) show varied income levels.
+    Higher income levels tend to plateau or decrease slightly beyond middle age.
+Model Performance (if applicable):
+    Accuracy: X% (if a predictive model was used)
+    Evaluation Metrics: Provide metrics like MSE, RMSE, R², etc.
