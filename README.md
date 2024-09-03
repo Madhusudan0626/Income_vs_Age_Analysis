@@ -89,10 +89,9 @@ Modeling (if applicable): Applied regression techniques to predict income based 
 
 📈 Results
 
-Correlation Findings: Identified a moderate correlation between age and income, indicating that income         generally increases with age up to a certain point.
+Correlation Findings: Identified a moderate correlation between age and income, indicating that income generally increases with age up to a certain point.
 Insights:
     Younger individuals (ages 25-35) show varied income levels.
     Higher income levels tend to plateau or decrease slightly beyond middle age.
 Model Performance (if applicable):
-    Accuracy: X% (if a predictive model was used)
-    Evaluation Metrics: Provide metrics like MSE, RMSE, R², etc.
+    Evaluation Metrics: Sum of Squared Errors Method
