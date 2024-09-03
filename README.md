@@ -39,11 +39,13 @@ Install the necessary libraries using:
 
 Data Preparation: Cleaned the dataset by handling missing values and removing duplicates.
 
-Exploratory Data Analysis (EDA): Explored the data distribution and visualized key patterns using various      plotting techniques.
+Exploratory Data Analysis (EDA): Explored the data distribution and visualized key patterns using various plotting techniques.
 
 Correlation Analysis: Examined relationships between age and income to identify trends.
 
 Modeling (if applicable): Applied regression techniques to predict income based on demographic factors.
+
+![alt text](https://github.com/[Madhusudan0626]/[No]/blob/[branch]/image.jpg?raw=true)
 
 🚀 Getting Started
 
@@ -63,7 +65,7 @@ To run the analysis locally, follow these steps:
 
 📚 Conclusion
 
-This analysis offers a preliminary exploration into income distribution based on age. Future work could        extend this analysis with a larger, more diverse dataset and additional demographic features to draw more      comprehensive conclusions.
+This analysis offers a preliminary exploration into income distribution based on age. Future work could extend this analysis with a larger, more diverse dataset and additional demographic features to draw more comprehensive conclusions.
 
 🤝 Acknowledgments
 
