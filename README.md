@@ -33,9 +33,8 @@ The dataset includes the following fields:
 
 Install the necessary libraries using:
 
-```
-pip install pandas numpy matplotlib
-```
+    pip install pandas numpy matplotlib
+
 🛠️ Methodology
 
 Data Preparation: Cleaned the dataset by handling missing values and removing duplicates.
