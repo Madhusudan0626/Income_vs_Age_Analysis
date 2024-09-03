@@ -45,7 +45,8 @@ Correlation Analysis: Examined relationships between age and income to identify 
 
 Modeling (if applicable): Applied regression techniques to predict income based on demographic factors.
 
-![alt text](https://github.com/[Madhusudan0626]/[No]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[Madhusudan0626]/[Income_vs_Age_Analysis]/blob/[main]/scatter2.png?raw=true)
+![alt text](https://github.com/[Madhusudan0626]/[Income_vs_Age_Analysis]/blob/[main]/centroid.png?raw=true)
 
 🚀 Getting Started
 
@@ -89,6 +90,8 @@ Correlation Analysis: Examined relationships between age and income to identify 
 Modeling (if applicable): Applied regression techniques to predict income based on demographic factors.
 
 📈 Results
+
+![alt text](https://github.com/[Madhusudan0626]/[Income_vs_Age_Analysis]/blob/[main]/ellbow.png?raw=true)
 
 Correlation Findings: Identified a moderate correlation between age and income, indicating that income generally increases with age up to a certain point.
 Insights:
